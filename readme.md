@@ -1,2 +1,3 @@
-test
-another line of text 
+test;
+another line of text;
+commit 3
